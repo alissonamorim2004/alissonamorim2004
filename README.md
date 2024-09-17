@@ -17,12 +17,12 @@
 
 ### GitHub Stats
 
-<div align="center">
-  <div style="display: flex; justify-content: space-around;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonamorim2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonamorim2004&layout=compact&langs_count=7&theme=radical" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonamorim2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /></td>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonamorim2004&layout=compact&langs_count=7&theme=radical" /></td>
+  </tr>
+</table>
 
 ### Contact
 
