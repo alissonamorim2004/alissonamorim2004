@@ -1,32 +1,41 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Alisson+Amorim.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
+## Alisson Amorim
 
-<img src="https://th.bing.com/th/id/R.97f6f535fae594fde1d65eed4a22c493?rik=2ja4RwQe9%2f9XJQ&riu=http%3a%2f%2f49.media.tumblr.com%2f5acd3ac96ec39cc02384f373dbec1af3%2ftumblr_o0650ejtaK1qhmypro5_1280.gif&ehk=LCQW38dQJSN1jsl5a%2bVvWSQxutusC6tpYAUdf3FVPFs%3d&risl=&pid=ImgRaw&r=0" alt="Pixel Art" align="right" width="300">
+**Engenheiro de Automação & IA**
 
-### Technologies and tools:
+Construo agentes e automações que rodam em produção, com integração aos
+sistemas que a operação já usa.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Alisson-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Alisson-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Alisson-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alisson-PYTHON" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Alisson-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Alisson-React" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img align="center" alt="Alisson-mongo" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Alisson-Django" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
-</div><br>
+🏆 **NASA Space Apps Challenge 2025 — Global Nominee**
+Projeto [EYA](https://github.com/alissonamorim2004/EYA): detecção de metano e
+NO₂ por imagens de satélite.
 
-### GitHub Stats
+---
 
-<table>
-  <tr>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonamorim2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /></td>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonamorim2004&layout=compact&langs_count=7&theme=radical" /></td>
-  </tr>
-</table>
+### Em destaque
 
-### Contact
+| Projeto | O que é |
+|---|---|
+| [n8n-automation-portfolio](#) | Automações de processo em n8n: NOC, agendamento, atendimento multi-agente |
+| [tabarato](#) | Marketplace de delivery. NestJS, Prisma, WebSocket, ~18k linhas de TypeScript |
+| [ai-agent-platform](#) | Agentes de atendimento com RAG e integração a Google Calendar e APIs |
+| [EYA](#) | Detecção de metano e NO₂ por satélite. Python, Google Earth Engine, MapLibre |
 
-<div> 
-  <a href="https://www.linkedin.com/in/alisson-amorim-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:alissonamorim2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+---
+
+### Stack
+
+**Automação e IA**
+n8n · Python · RAG · OpenAI · Anthropic · WhatsApp Business API
+
+**Backend**
+NestJS · Node.js · Prisma · PostgreSQL · Supabase · REST · WebSocket
+
+**Frontend**
+TypeScript · React · Next.js · React Native · Tailwind
+
+---
+
+### Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-amorim-)
+[![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white)](mailto:alissonamorim2004@gmail.com)
