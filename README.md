@@ -8,8 +8,7 @@ e processo de negócio: orquestração, integração e as regras que fazem a coi
 funcionar sem alguém olhando.
 
 🏆 **NASA Space Apps Challenge 2025 — Global Nominee**
-Projeto [EYA](https://github.com/alissonamorim2004/EYA), detecção de metano e NO₂
-por imagens de satélite.
+Projeto EYA: detecção de metano e NO₂ por imagens de satélite.
 [Verificar na lista oficial](https://www.spaceappschallenge.org/2025/awards/global-nominees/) (busque por "nexla")
 
 ---
@@ -18,10 +17,11 @@ por imagens de satélite.
 
 | Projeto | O que é |
 |---|---|
-| [n8n-automation-portfolio](#) | Automações de processo em n8n: validação de OS em NOC, agendamento e atendimento multi-agente |
-| [tabarato](#) | Marketplace de delivery multi-lado. NestJS, Prisma, WebSocket, ~18 mil linhas de TypeScript |
-| [ai-agent-platform](#) | Agentes de atendimento com RAG, integrados a Google Calendar, bancos e APIs de sistemas |
-| [EYA](#) | Detecção de metano e NO₂ por satélite. Python, Google Earth Engine, React, MapLibre GL |
+| [n8n-automation-portfolio](https://github.com/alissonamorim2004/n8n-automation-portfolio) | Automações de processo em n8n: validação de OS em NOC, agendamento e atendimento multi-agente |
+| [whatsapp-crm-platform](https://github.com/alissonamorim2004/whatsapp-crm-platform) | Plataforma multi-tenant de atendimento omnichannel e CRM. Em produção |
+| [miles-points-erp](https://github.com/alissonamorim2004/miles-points-erp) | ERP de pontos e milhas com estoque por custo médio ponderado, conciliação bancária e DRE |
+| [energy-monitoring-app](https://github.com/alissonamorim2004/energy-monitoring-app) | App mobile de consumo de energia. Publicado na Google Play Store |
+| [field-service-routing-app](https://github.com/alissonamorim2004/field-service-routing-app) | Gestão de equipes em campo com roteirização de atendimentos. Cliente nos EUA |
 | [IA-de-Reconhecimento-de-Libras](https://github.com/alissonamorim2004/IA-de-Reconhecimento-de-Libras) | CNN para reconhecimento de sinais de Libras em tempo real via webcam |
 
 ---
@@ -32,7 +32,7 @@ por imagens de satélite.
 n8n · Python · RAG · OpenAI · Anthropic · WhatsApp Business API
 
 **Backend**
-NestJS · Node.js · Prisma · PostgreSQL · Supabase · REST · WebSocket
+NestJS · Node.js · Django · Prisma · PostgreSQL · Supabase · REST · WebSocket
 
 **Frontend**
 TypeScript · React · Next.js · React Native · Tailwind
