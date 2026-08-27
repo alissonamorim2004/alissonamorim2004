@@ -8,7 +8,7 @@ e processo de negócio: orquestração, integração e as regras que fazem a coi
 funcionar sem alguém olhando.
 
 🏆 **NASA Space Apps Challenge 2025 — Global Nominee**
-Projeto EYA: detecção de metano e NO₂ por imagens de satélite.
+Projeto [EYA](https://github.com/alissonamorim2004/eya-satellite-emissions): detecção de metano e NO₂ por imagens de satélite.
 [Verificar na lista oficial](https://www.spaceappschallenge.org/2025/awards/global-nominees/) (busque por "nexla")
 
 ---
@@ -17,9 +17,10 @@ Projeto EYA: detecção de metano e NO₂ por imagens de satélite.
 
 | Projeto | O que é |
 |---|---|
-| [n8n-automation-portfolio](https://github.com/alissonamorim2004/n8n-automation-portfolio) | Automações de processo em n8n: validação de OS em NOC, agendamento e atendimento multi-agente |
-| [whatsapp-crm-platform](https://github.com/alissonamorim2004/whatsapp-crm-platform) | Plataforma multi-tenant de atendimento omnichannel e CRM. Em produção |
+| [n8n-automation-portfolio](https://github.com/alissonamorim2004/n8n-automation-portfolio) | 18 automações de processo com IA em produção: validação de OS em NOC, triagem clínica, roteamento por setor e atendimento multi-agente |
+| [whatsapp-crm-platform](https://github.com/alissonamorim2004/whatsapp-crm-platform) | Plataforma multi-tenant de atendimento omnichannel e CRM para clínicas. Em produção |
 | [miles-points-erp](https://github.com/alissonamorim2004/miles-points-erp) | ERP de pontos e milhas com estoque por custo médio ponderado, conciliação bancária e DRE |
+| [eya-satellite-emissions](https://github.com/alissonamorim2004/eya-satellite-emissions) | Detecção de metano e NO₂ por satélite, com cruzamento contra fontes prováveis. NASA Space Apps 2025 Global Nominee |
 | [energy-monitoring-app](https://github.com/alissonamorim2004/energy-monitoring-app) | App mobile de consumo de energia. Publicado na Google Play Store |
 | [field-service-routing-app](https://github.com/alissonamorim2004/field-service-routing-app) | Gestão de equipes em campo com roteirização de atendimentos. Cliente nos EUA |
 | [IA-de-Reconhecimento-de-Libras](https://github.com/alissonamorim2004/IA-de-Reconhecimento-de-Libras) | CNN para reconhecimento de sinais de Libras em tempo real via webcam |
@@ -29,13 +30,13 @@ Projeto EYA: detecção de metano e NO₂ por imagens de satélite.
 ### Stack
 
 **Automação e IA**
-n8n · Python · RAG · OpenAI · Anthropic · WhatsApp Business API
+n8n · Python · RAG · OpenAI · Anthropic · WhatsApp Business API · visão computacional
 
 **Backend**
 NestJS · Node.js · Django · Prisma · PostgreSQL · Supabase · REST · WebSocket
 
 **Frontend**
-TypeScript · React · Next.js · React Native · Tailwind
+TypeScript · React · Next.js · React Native · MapLibre GL · Tailwind
 
 **Infra**
 Docker · Vercel · Turborepo · Git
